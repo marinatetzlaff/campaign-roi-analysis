@@ -1,0 +1,13 @@
+campaign_name,touchpoint,channel,cost,revenue,date
+Email Campaign 1,Email,Email,500,2000,2025-01-01
+Paid Ad Campaign 1,Ad,Paid,1000,3000,2025-01-02
+Organic Campaign 1,Organic,Organic,0,1500,2025-01-03
+Email Campaign 1,Email,Email,500,2500,2025-02-01
+Paid Ad Campaign 1,Ad,Paid,1000,3500,2025-02-02
+Organic Campaign 1,Organic,Organic,0,1800,2025-02-03
+Email Campaign 2,Email,Email,600,2200,2025-01-10
+Paid Ad Campaign 2,Ad,Paid,1200,3200,2025-01-15
+Organic Campaign 2,Organic,Organic,0,1600,2025-01-20
+Email Campaign 2,Email,Email,600,2700,2025-02-10
+Paid Ad Campaign 2,Ad,Paid,1200,3800,2025-02-15
+Organic Campaign 2,Organic,Organic,0,1900,2025-02-20
